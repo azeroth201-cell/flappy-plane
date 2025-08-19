@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛫 Flappy Plane
 
 > Аркадная игра в стиле Flappy Bird, но с самолётом вместо птички!  
@@ -37,3 +38,7 @@ flappy-plane/
 cd 1_Pygame_Version
 pip install pygame
 python flappy_plane.py
+=======
+# flappy-plane
+Flappy Bird clone with airplane — Pygame, Flutter, Unity versions
+>>>>>>> 98edaef0352c3090e1f12bc1450ef5907f61a767
