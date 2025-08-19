@@ -1,0 +1,17 @@
+name: flappy_plane
+description: Flappy Plane — Tap to fly!
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.15.0
+  flame_audio: ^1.2.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/audio/
